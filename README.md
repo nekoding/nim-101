@@ -7,6 +7,6 @@ nim c [file].nim
 ### Compile and Run
 
 ```sh
-nim c [file].nim
+nim c -r [file].nim
 ```
 
