@@ -3,3 +3,4 @@
 !.gitignore
 !*.md
 !*.nim
+!test.txt

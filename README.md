@@ -26,3 +26,14 @@ type
         age* : uint
 
 ```
+
+#### Asynchronous
+
+
+```
+runForever: run event loop forever (usually used for server application that need stay alive)
+
+waitFor: run event loop until specified future complete (usually used for application that need to quit after async process finished)
+
+pool: listen for event for the specified time
+```
